@@ -1,2 +1,2 @@
 <H1>pyZaba</H1>
-<p>...</p>
+<p>Byl jsem tu!</p>
